@@ -1,0 +1,2 @@
+Encryption: Plain Text -> Substitution Cipher -> Transposition Cipher -> Product Cipher -> Cipher Text
+Decryption: Cipher Text -> Product Cipher -> Transposition Cipher -> Substitution Cipher -> Cipher Text
