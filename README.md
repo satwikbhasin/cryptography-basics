@@ -1,6 +1,6 @@
 # Text Encryption and Decryption Tool
 
-This Python tool implements a combination of three cryptographic techniques — **Substitution**, **Transposition**, and **Product Encryption** — to encrypt and decrypt messages. It allows for encryption and decryption of text using a user-defined key and demonstrates basic cryptography concepts.
+This Python tool implements a combination of three cryptographic techniques — Substitution, Transposition, and Product Encryption — to encrypt and decrypt messages. It was developed as part of the ICSI 526 Cryptography class at SUNY Albany. The tool demonstrates basic cryptography concepts and allows for encryption and decryption of text using a user-defined key.
 
 ## Features
 
